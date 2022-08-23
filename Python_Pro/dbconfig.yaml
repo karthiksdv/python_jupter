@@ -1,0 +1,16 @@
+test:
+    user        : shout7
+    pswd        : shout7
+    db          : 10.228.58.50
+    servicetype : service_name
+    schema      : PMDEV
+    port        : 1521
+    server      :
+dev:
+    user        : shout7
+    pswd        : shout7
+    db          : 10.228.58.50
+    servicetype : service_name
+    schema      : PMDEV
+    port        : 1521
+    server      : http://da3d-gen-sp8-app007.dalab.syniverse.com/notification-service/v1/service-alerts

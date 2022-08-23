@@ -1,0 +1,43 @@
+db_tables_id,user_name,password,db_name,port_number
+1,ss7admin,69cubs,gsmnet,3307
+2,ss7admin,69cubs,netinf,3308
+3,ss7admin,69cubs,lergdata,3309
+4,ss7admin,69cubs,cktdball,3310
+5,ss7admin,69cubs,gtt,3311
+6,ss7admin,69cubs,gwsalarm,3312
+7,ss7admin,69cubs,inventory,3313
+8,ss7admin,69cubs,screen,3314
+9,ss7admin,69cubs,sentinel,3315
+10,ss7admin,69cubs,sentinel_daily,3316
+11,ss7admin,69cubs,sums,3318
+12,ss7admin,69cubs,zabbix,3319
+13,ss7admin,69cubs,routing_tables,3320
+14,ss7admin,69cubs,lsms,3321
+15,ss7admin,69cubs,phplayersmenu,3322
+16,ss7admin,69cubs,metrics,3325
+17,ss7admin,69cubs,stp_commands,3326
+18,ss7admin,69cubs,link_status,3327
+19,ss7admin,69cubs,cdma_sms,3328
+20,ss7admin,69cubs,lrn_ogtt,3330
+21,ss7admin,69cubs,"uam ",3333
+22,ss7admin,69cubs,gsm_billing,3334
+23,ss7admin,69cubs,cktdball_2,3335
+24,ss7admin,69cubs,OVPI,3337
+25,ss7admin,69cubs,SLA,3338
+26,ss7admin,69cubs,coma,3339
+27,ss7admin,69cubs,scorecard_bak,3340
+28,ss7admin,69cubs,ss7authenticatio,3341
+29,ss7admin,69cubs,ss7authenticatio,3342
+30,ss7admin,69cubs,"SS7oIP(for CNAM)",3343
+31,ss7admin,69cubs,"CNAM Query",3344
+32,ss7admin,69cubs,safety_net,3345
+33,ss7admin,69cubs,irat,3346
+34,ss7admin,69cubs,app_loggin,3347
+35,ss7admin,69cubs,metrics2,3348
+36,ss7admin,69cubs,pegs,3349
+37,ss7admin,69cubs,mysql_seculog,3350
+38,ss7admin,69cubs,itp_linksets,3351
+39,ss7admin,69cubs,seculogs,3353
+40,ss7admin,69cubs,addressbook,3354
+41,ss7admin,69cubs,sca,3370
+42,ss7admin,69cubs,dansproject,3371
